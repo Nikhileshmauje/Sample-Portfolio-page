@@ -1,12 +1,16 @@
-# Web-development
-A dynamic web development project showcasing my skills in HTML, CSS, JavaScript, and React.js. Features a responsive design, efficient codebase, and modular components for a seamless user experience. <br>
-Technologies Used <br>
-HTML <br>
-CSS  <br>
-JavaScript  <br>
-React.js  <br>
-Bootstrap  <br>
-Check out the live project here and explore the codebase to see how I've crafted these engaging web applications.  <br>
+# Portfolio Website
+
+A simple and elegant portfolio website showcasing my web development projects. Built using HTML, CSS, and Bootstrap components, this project reflects a clean and modern design with a focus on responsiveness.
+
+## Technologies Used
+- HTML
+- CSS
+- Bootstrap
+
+## Features
+- Responsive layout for optimal viewing on various devices.
+- Bootstrap components for consistent styling and user interface elements.
+- Simple and intuitive navigation for a seamless user experience.
 
 
 
